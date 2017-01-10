@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    background-color:#242226;
+    padding-top: 5em;
+}
+* {
+    font-family: 'Raleway';
+}
+button {
+    background:#4267B2;
+    color:white;
+    padding: 1.2em;
+    width:300px;
+    text-align:center;
+    font-size:1.2em;
+    margin-bottom: 30px;
+    cursor:pointer;
+}
